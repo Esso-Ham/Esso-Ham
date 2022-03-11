@@ -4,7 +4,7 @@
 - 💞️ Je **recherche un contrat d'alternance développeur web et web mobile pour une année (2022-2023)** dans une entreprise en France. Ma formation **démarre en septembre 2022.**
 - 📫 Vous pouvez me contacter à esspohoyi@gmail.com, http://www.linkedin.com/in/essoham-pohoyi
 
-**Mes projets en autodidacte**
+  **Mes projets en autodidacte**
 - http://bessys-tg.bessys.online
   Conçu avec HTML, CSS pur, JavaScript pur.
 - https://rapports-activites.000webhostapp.com
