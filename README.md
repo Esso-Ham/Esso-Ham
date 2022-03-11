@@ -1,7 +1,7 @@
 - 👋 Salut! Je suis **Esso-Ham POHOYI.**
 - 👀 Passionné des nouvelles technologies, j'aime apprendre de nouvelles choses et approfondir les sujets que je connais déjà.
 - 🌱 J'utilise Docker et je me familiariser avec le fonctionnement des méthodes agiles.
-- 💞️ Je **recherche un contrat d'alternance développeur web et web mobile pour une année (2022-2023)** dans une entreprise en France. Ma formation **démarre en septembre 2022.**
+- 💞️ Je **recherche un contrat d'alternance développeur web et web mobile pour une année (2022-2023)** dans une entreprise en France.
 - 📫 Vous pouvez me contacter à esspohoyi@gmail.com, http://www.linkedin.com/in/essoham-pohoyi
 
   **Mes projets en autodidacte**
